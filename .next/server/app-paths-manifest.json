@@ -1,3 +1,10 @@
 {
-  "/page": "app/page.js"
+  "/virtual-buying/page": "app/virtual-buying/page.js",
+  "/home-valuation/page": "app/home-valuation/page.js",
+  "/selling-guide/page": "app/selling-guide/page.js",
+  "/rental-search/page": "app/rental-search/page.js",
+  "/rental-agent/page": "app/rental-agent/page.js",
+  "/find-agent/page": "app/find-agent/page.js",
+  "/office-search/page": "app/office-search/page.js",
+  "/login/page": "app/login/page.js"
 }
